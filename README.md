@@ -2,3 +2,4 @@
 
 Ahmad Farhanudin
 Bintang Dwi Ramadhan
+Gugi Azkia Fikri Lauda
