@@ -270,7 +270,9 @@ Sidebar → "Kelola ODP" → Klik tombol "+"
 
 ## 📸 Screenshot
 
-> *Tambahkan screenshot aplikasi di sini setelah build berhasil.*
+<div align="center">
+  <img src="assets/isp.jpg" width="100%" alt="Screenshot ISP Management App">
+</div>
 
 
 
