@@ -271,7 +271,7 @@ Sidebar → "Kelola ODP" → Klik tombol "+"
 ## 📸 Screenshot
 
 <div align="center">
-  <img src="assets/isp.jpg" width="100%" alt="Screenshot ISP Management App">
+  <img src="assets/isp.png" width="100%" alt="Screenshot ISP Management App">
 </div>
 
 
