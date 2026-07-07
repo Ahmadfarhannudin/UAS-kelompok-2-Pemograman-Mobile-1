@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_registrasi_pelanggan.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_registrasi_pelanggan.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_cs_dashboard.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_cs_dashboard.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_custom_progress_bg.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/custom_progress_bg.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_detail_komplain.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_detail_komplain.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_add.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_item_tagihan.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/item_tagihan.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/navigation_nav_graph.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_bg_status_chip.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/bg_status_chip.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_people.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_people.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_kelola_pelanggan.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_kelola_pelanggan.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_login.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_ticket.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_ticket.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/menu_drawer_menu.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_bg_rounded_card.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/bg_rounded_card.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_menu.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_upload.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_upload.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_item_odp.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/item_odp.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_nav_item_selector.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/nav_item_selector.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_buat_komplain.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_buat_komplain.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_bg_header_gradient.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/bg_header_gradient.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_konfirmasi_pembayaran.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_konfirmasi_pembayaran.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_payment.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_payment.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_role_selection.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_role_selection.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_kelola_odp.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_kelola_odp.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_dialog_detail_pembayaran.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/dialog_detail_pembayaran.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_kelola_pembayaran.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_kelola_pembayaran.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_logout.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_cek_tagihan.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_cek_tagihan.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_item_pelanggan.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/item_pelanggan.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_nav_header.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_person_circle.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_person_circle.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_item_komplain.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/item_komplain.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_activity_main.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/xml_file_paths.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_home.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_map.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_map.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ispmanagement.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/drawable_ic_bill.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/drawable/ic_bill.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_fragment_komplain_list.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_komplain_list.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-debug-56:/layout_item_konfirmasi_pembayaran.xml.flat",
+        "source": "com.ispmanagement.app-main-58:/layout/item_konfirmasi_pembayaran.xml"
+    }
+]

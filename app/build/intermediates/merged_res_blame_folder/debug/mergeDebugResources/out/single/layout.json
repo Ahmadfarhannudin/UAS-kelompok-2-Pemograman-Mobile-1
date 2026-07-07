@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_buat_komplain.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_buat_komplain.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_kelola_odp.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_kelola_odp.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_kelola_pembayaran.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_kelola_pembayaran.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_registrasi_pelanggan.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_registrasi_pelanggan.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/item_komplain.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/item_komplain.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_login.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_komplain_list.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_komplain_list.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/nav_header.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_role_selection.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_role_selection.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/item_konfirmasi_pembayaran.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/item_konfirmasi_pembayaran.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/item_pelanggan.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/item_pelanggan.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_konfirmasi_pembayaran.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_konfirmasi_pembayaran.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/dialog_detail_pembayaran.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/dialog_detail_pembayaran.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/item_odp.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/item_odp.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/item_tagihan.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/item_tagihan.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_cs_dashboard.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_cs_dashboard.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_cek_tagihan.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_cek_tagihan.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_detail_komplain.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_detail_komplain.xml"
+    },
+    {
+        "merged": "com.ispmanagement.app-mergeDebugResources-55:/layout/fragment_kelola_pelanggan.xml",
+        "source": "com.ispmanagement.app-main-58:/layout/fragment_kelola_pelanggan.xml"
+    }
+]

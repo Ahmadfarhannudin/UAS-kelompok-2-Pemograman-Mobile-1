@@ -1,0 +1,59 @@
+com.ispmanagement.app-navigation-ui-ktx-2.8.9-0 C:\Users\farhan\.gradle\caches\8.11.1\transforms\03ff169d19f011fd33927148f2b94255\transformed\navigation-ui-ktx-2.8.9\res
+com.ispmanagement.app-lifecycle-runtime-release-1 C:\Users\farhan\.gradle\caches\8.11.1\transforms\054e9bacf3a0fe179a4cd0bc78e2c474\transformed\lifecycle-runtime-release\res
+com.ispmanagement.app-savedstate-1.2.1-2 C:\Users\farhan\.gradle\caches\8.11.1\transforms\0755db74d1cfb1ed7ae7b69969f26bd2\transformed\savedstate-1.2.1\res
+com.ispmanagement.app-sqlite-framework-2.4.0-3 C:\Users\farhan\.gradle\caches\8.11.1\transforms\0bb9cd9a04d99111a39f020edbf84969\transformed\sqlite-framework-2.4.0\res
+com.ispmanagement.app-room-runtime-2.6.1-4 C:\Users\farhan\.gradle\caches\8.11.1\transforms\10de4449d122c14076f83329a87cdb9e\transformed\room-runtime-2.6.1\res
+com.ispmanagement.app-lifecycle-livedata-ktx-2.8.7-5 C:\Users\farhan\.gradle\caches\8.11.1\transforms\13a26251e9c8693065a26553e5c10ff0\transformed\lifecycle-livedata-ktx-2.8.7\res
+com.ispmanagement.app-drawerlayout-1.1.1-6 C:\Users\farhan\.gradle\caches\8.11.1\transforms\17047ba46271bf4aa8edcd453488a60f\transformed\drawerlayout-1.1.1\res
+com.ispmanagement.app-sqlite-2.4.0-7 C:\Users\farhan\.gradle\caches\8.11.1\transforms\19931df7558323e9548df748a50a4a32\transformed\sqlite-2.4.0\res
+com.ispmanagement.app-fragment-ktx-1.6.2-8 C:\Users\farhan\.gradle\caches\8.11.1\transforms\2a25780324a416815aeac9d1d07332be\transformed\fragment-ktx-1.6.2\res
+com.ispmanagement.app-lifecycle-process-2.8.7-9 C:\Users\farhan\.gradle\caches\8.11.1\transforms\2d9868b33902424e7510d12412d28f42\transformed\lifecycle-process-2.8.7\res
+com.ispmanagement.app-core-runtime-2.2.0-10 C:\Users\farhan\.gradle\caches\8.11.1\transforms\3de795f363b32bf43bde4232cd5d41c6\transformed\core-runtime-2.2.0\res
+com.ispmanagement.app-startup-runtime-1.1.1-11 C:\Users\farhan\.gradle\caches\8.11.1\transforms\409c2a4e67f55d59dabb343745298f5e\transformed\startup-runtime-1.1.1\res
+com.ispmanagement.app-savedstate-ktx-1.2.1-12 C:\Users\farhan\.gradle\caches\8.11.1\transforms\43e95986aba05fe1ddbc58646caa6d0c\transformed\savedstate-ktx-1.2.1\res
+com.ispmanagement.app-appcompat-1.7.0-13 C:\Users\farhan\.gradle\caches\8.11.1\transforms\43fb5786457303a66dcedf42c871b1b4\transformed\appcompat-1.7.0\res
+com.ispmanagement.app-lifecycle-viewmodel-savedstate-2.8.7-14 C:\Users\farhan\.gradle\caches\8.11.1\transforms\53dc1b15ef8008118cb32b5e08e6f009\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.ispmanagement.app-activity-1.8.0-15 C:\Users\farhan\.gradle\caches\8.11.1\transforms\573cd8a02df99a24af9b34edd85b8733\transformed\activity-1.8.0\res
+com.ispmanagement.app-slidingpanelayout-1.2.0-16 C:\Users\farhan\.gradle\caches\8.11.1\transforms\6553e7d14b94cfdea9dbd7e9547e4c2a\transformed\slidingpanelayout-1.2.0\res
+com.ispmanagement.app-lifecycle-viewmodel-ktx-2.8.7-17 C:\Users\farhan\.gradle\caches\8.11.1\transforms\6f27c11a102ba85d70aeb3d12ec6d145\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.ispmanagement.app-emoji2-1.3.0-18 C:\Users\farhan\.gradle\caches\8.11.1\transforms\76f2747717c13d47b2802a99e645929d\transformed\emoji2-1.3.0\res
+com.ispmanagement.app-lifecycle-runtime-ktx-release-19 C:\Users\farhan\.gradle\caches\8.11.1\transforms\770a70c9ab6689b33d88f2148ede3a3f\transformed\lifecycle-runtime-ktx-release\res
+com.ispmanagement.app-transition-1.5.0-20 C:\Users\farhan\.gradle\caches\8.11.1\transforms\77b238b7156cbbfd1ab5cfc95e26a036\transformed\transition-1.5.0\res
+com.ispmanagement.app-lifecycle-livedata-2.8.7-21 C:\Users\farhan\.gradle\caches\8.11.1\transforms\78d7b9dd5935adbf44860e486deb421a\transformed\lifecycle-livedata-2.8.7\res
+com.ispmanagement.app-navigation-runtime-ktx-2.8.9-22 C:\Users\farhan\.gradle\caches\8.11.1\transforms\7ad30ed5604200139b8ed5e30f974273\transformed\navigation-runtime-ktx-2.8.9\res
+com.ispmanagement.app-annotation-experimental-1.4.1-23 C:\Users\farhan\.gradle\caches\8.11.1\transforms\7b198a2c790ce2f50670a4eb98f9571f\transformed\annotation-experimental-1.4.1\res
+com.ispmanagement.app-appcompat-resources-1.7.0-24 C:\Users\farhan\.gradle\caches\8.11.1\transforms\80209eaa6a66c6103ae6bde04cf9a3ae\transformed\appcompat-resources-1.7.0\res
+com.ispmanagement.app-room-ktx-2.6.1-25 C:\Users\farhan\.gradle\caches\8.11.1\transforms\83d84a66c4718f5437789bc6183ae6fb\transformed\room-ktx-2.6.1\res
+com.ispmanagement.app-viewpager2-1.1.0-beta02-26 C:\Users\farhan\.gradle\caches\8.11.1\transforms\8452cd92043fbcaeb4cb419fb1b95522\transformed\viewpager2-1.1.0-beta02\res
+com.ispmanagement.app-swiperefreshlayout-1.1.0-27 C:\Users\farhan\.gradle\caches\8.11.1\transforms\8b90954738a54b065875716d223ec55f\transformed\swiperefreshlayout-1.1.0\res
+com.ispmanagement.app-cardview-1.0.0-28 C:\Users\farhan\.gradle\caches\8.11.1\transforms\900f45fecf352f9e730627371f2a5ad6\transformed\cardview-1.0.0\res
+com.ispmanagement.app-material-1.12.0-29 C:\Users\farhan\.gradle\caches\8.11.1\transforms\90daebac4faf208888e7dbeecfcc3fc0\transformed\material-1.12.0\res
+com.ispmanagement.app-navigation-fragment-ktx-2.8.9-30 C:\Users\farhan\.gradle\caches\8.11.1\transforms\990c144d286bc9910d1504e78af7b6b9\transformed\navigation-fragment-ktx-2.8.9\res
+com.ispmanagement.app-recyclerview-1.3.2-31 C:\Users\farhan\.gradle\caches\8.11.1\transforms\a2f4186fe33e11e79d6e929e41d82684\transformed\recyclerview-1.3.2\res
+com.ispmanagement.app-profileinstaller-1.4.0-32 C:\Users\farhan\.gradle\caches\8.11.1\transforms\a46da01e4cf4dd088b320e643c575e0a\transformed\profileinstaller-1.4.0\res
+com.ispmanagement.app-coordinatorlayout-1.2.0-33 C:\Users\farhan\.gradle\caches\8.11.1\transforms\adf4b3d708f9cd8c2eaa8bb5f09474dc\transformed\coordinatorlayout-1.2.0\res
+com.ispmanagement.app-window-1.0.0-34 C:\Users\farhan\.gradle\caches\8.11.1\transforms\ae7efd4a133f65b6b23a400c22f9236d\transformed\window-1.0.0\res
+com.ispmanagement.app-lifecycle-viewmodel-release-35 C:\Users\farhan\.gradle\caches\8.11.1\transforms\afdb0f42d829d093c00c4b4df048445d\transformed\lifecycle-viewmodel-release\res
+com.ispmanagement.app-activity-ktx-1.8.0-36 C:\Users\farhan\.gradle\caches\8.11.1\transforms\bac409072443889e223441475aa7005c\transformed\activity-ktx-1.8.0\res
+com.ispmanagement.app-lifecycle-livedata-core-2.8.7-37 C:\Users\farhan\.gradle\caches\8.11.1\transforms\bf09cb15c24e7e38cf211819a3a26d8e\transformed\lifecycle-livedata-core-2.8.7\res
+com.ispmanagement.app-navigation-common-ktx-2.8.9-38 C:\Users\farhan\.gradle\caches\8.11.1\transforms\c12332a5ef38064b049fc2292e6bfcfa\transformed\navigation-common-ktx-2.8.9\res
+com.ispmanagement.app-navigation-runtime-2.8.9-39 C:\Users\farhan\.gradle\caches\8.11.1\transforms\c3207a0c76a5141ea3d41b99c4f79534\transformed\navigation-runtime-2.8.9\res
+com.ispmanagement.app-customview-poolingcontainer-1.0.0-40 C:\Users\farhan\.gradle\caches\8.11.1\transforms\c697a98b19b0c386676d89b4a03dd1c3\transformed\customview-poolingcontainer-1.0.0\res
+com.ispmanagement.app-navigation-common-2.8.9-41 C:\Users\farhan\.gradle\caches\8.11.1\transforms\c7326109c5bd78c49b7fee9c8e0823a7\transformed\navigation-common-2.8.9\res
+com.ispmanagement.app-glide-4.16.0-42 C:\Users\farhan\.gradle\caches\8.11.1\transforms\d87a20675e5f0da7514656cccdb4996a\transformed\glide-4.16.0\res
+com.ispmanagement.app-fragment-1.6.2-43 C:\Users\farhan\.gradle\caches\8.11.1\transforms\d981c11a45e96b1373485e82cb6eb934\transformed\fragment-1.6.2\res
+com.ispmanagement.app-navigation-ui-2.8.9-44 C:\Users\farhan\.gradle\caches\8.11.1\transforms\dd2f498cc634340519441de1f410afa1\transformed\navigation-ui-2.8.9\res
+com.ispmanagement.app-emoji2-views-helper-1.3.0-45 C:\Users\farhan\.gradle\caches\8.11.1\transforms\e0069b11073b161aec1706f3b86dc6db\transformed\emoji2-views-helper-1.3.0\res
+com.ispmanagement.app-core-ktx-1.15.0-46 C:\Users\farhan\.gradle\caches\8.11.1\transforms\e126983626cc57f1bec3846efc91ddd6\transformed\core-ktx-1.15.0\res
+com.ispmanagement.app-constraintlayout-2.2.1-47 C:\Users\farhan\.gradle\caches\8.11.1\transforms\ec5d55c8824b8eb27e78dac4ea1797c8\transformed\constraintlayout-2.2.1\res
+com.ispmanagement.app-core-1.15.0-48 C:\Users\farhan\.gradle\caches\8.11.1\transforms\ed3197bb6fd0d9ef3d08b5639baf00c0\transformed\core-1.15.0\res
+com.ispmanagement.app-navigation-fragment-2.8.9-49 C:\Users\farhan\.gradle\caches\8.11.1\transforms\f02f7114992a29c4deea08a6e9786ec0\transformed\navigation-fragment-2.8.9\res
+com.ispmanagement.app-lifecycle-livedata-core-ktx-2.8.7-50 C:\Users\farhan\.gradle\caches\8.11.1\transforms\f8d9bdbcc9e74743214549fa27d65888\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.ispmanagement.app-tracing-1.2.0-51 C:\Users\farhan\.gradle\caches\8.11.1\transforms\fd49a0f0fb266e17d61ba40ed9a1d8cc\transformed\tracing-1.2.0\res
+com.ispmanagement.app-pngs-52 D:\TUGAS KULIAH\semester 4\mobile 1\IspManagementApp\app\build\generated\res\pngs\release
+com.ispmanagement.app-resValues-53 D:\TUGAS KULIAH\semester 4\mobile 1\IspManagementApp\app\build\generated\res\resValues\release
+com.ispmanagement.app-packageReleaseResources-54 D:\TUGAS KULIAH\semester 4\mobile 1\IspManagementApp\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.ispmanagement.app-packageReleaseResources-55 D:\TUGAS KULIAH\semester 4\mobile 1\IspManagementApp\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.ispmanagement.app-release-56 D:\TUGAS KULIAH\semester 4\mobile 1\IspManagementApp\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.ispmanagement.app-main-57 D:\TUGAS KULIAH\semester 4\mobile 1\IspManagementApp\app\src\main\res
+com.ispmanagement.app-release-58 D:\TUGAS KULIAH\semester 4\mobile 1\IspManagementApp\app\src\release\res

@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\TUGAS KULIAH\semester 4\mobile 1\IspManagementApp\app"
+    name=":app"
+    type="APP"
+    maven="IspManagementApp:app:unspecified"
+    agpVersion="8.9.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\farhan\AppData\Local\Android\Sdk\platforms\android-35\android.jar;C:\Users\farhan\AppData\Local\Android\Sdk\build-tools\35.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

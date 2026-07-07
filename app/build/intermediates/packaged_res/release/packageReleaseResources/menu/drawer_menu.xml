@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group_guest" android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_pilih_role"
+            android:icon="@drawable/ic_home"
+            android:title="Beranda / Pilih Peran" />
+    </group>
+
+    <group android:id="@+id/group_customer" android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_cek_tagihan"
+            android:icon="@drawable/ic_bill"
+            android:title="Cek Tagihan" />
+        <item
+            android:id="@+id/menu_konfirmasi_pembayaran"
+            android:icon="@drawable/ic_payment"
+            android:title="Konfirmasi Pembayaran" />
+        <item
+            android:id="@+id/menu_komplain_pelanggan"
+            android:icon="@drawable/ic_ticket"
+            android:title="Tiket Komplain Saya" />
+        <item
+            android:id="@+id/menu_logout_pelanggan"
+            android:icon="@drawable/ic_logout"
+            android:title="Keluar" />
+    </group>
+
+    <group android:id="@+id/group_cs" android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_cs_dashboard"
+            android:icon="@drawable/ic_home"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/menu_kelola_pembayaran"
+            android:icon="@drawable/ic_payment"
+            android:title="Kelola Pembayaran" />
+        <item
+            android:id="@+id/menu_kelola_pelanggan"
+            android:icon="@drawable/ic_people"
+            android:title="Kelola Pelanggan" />
+        <item
+            android:id="@+id/menu_kelola_komplain"
+            android:icon="@drawable/ic_ticket"
+            android:title="Kelola Komplain" />
+        <item
+            android:id="@+id/menu_kelola_odp"
+            android:icon="@drawable/ic_map"
+            android:title="Kelola ODP" />
+        <item
+            android:id="@+id/menu_logout_cs"
+            android:icon="@drawable/ic_logout"
+            android:title="Keluar" />
+    </group>
+
+</menu>

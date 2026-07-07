@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/roleSelectionFragment">
+
+    <fragment
+        android:id="@+id/roleSelectionFragment"
+        android:name="com.ispmanagement.app.ui.role.RoleSelectionFragment"
+        android:label="Beranda"
+        tools:layout="@layout/fragment_role_selection" />
+
+    <!-- ============ CUSTOMER ============ -->
+    <fragment
+        android:id="@+id/cekTagihanFragment"
+        android:name="com.ispmanagement.app.ui.customer.CekTagihanFragment"
+        android:label="Cek Tagihan"
+        tools:layout="@layout/fragment_cek_tagihan" />
+
+    <fragment
+        android:id="@+id/konfirmasiPembayaranFragment"
+        android:name="com.ispmanagement.app.ui.customer.KonfirmasiPembayaranFragment"
+        android:label="Konfirmasi Pembayaran"
+        tools:layout="@layout/fragment_konfirmasi_pembayaran">
+        <argument android:name="tagihanId" app:argType="long" android:defaultValue="0L" />
+        <argument android:name="pelangganId" app:argType="long" android:defaultValue="0L" />
+        <argument android:name="nomorLayanan" app:argType="string" android:defaultValue="" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/loginPelangganFragment"
+        android:name="com.ispmanagement.app.ui.customer.LoginPelangganFragment"
+        android:label="Login Pelanggan"
+        tools:layout="@layout/fragment_login">
+        <argument android:name="tujuan" app:argType="string" android:defaultValue="komplain" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/komplainListFragment"
+        android:name="com.ispmanagement.app.ui.customer.KomplainListFragment"
+        android:label="Tiket Komplain Saya"
+        tools:layout="@layout/fragment_komplain_list" />
+
+    <fragment
+        android:id="@+id/buatKomplainFragment"
+        android:name="com.ispmanagement.app.ui.customer.BuatKomplainFragment"
+        android:label="Buat Komplain"
+        tools:layout="@layout/fragment_buat_komplain" />
+
+    <fragment
+        android:id="@+id/detailKomplainFragment"
+        android:name="com.ispmanagement.app.ui.customer.DetailKomplainFragment"
+        android:label="Detail Komplain"
+        tools:layout="@layout/fragment_detail_komplain">
+        <argument android:name="tiketId" app:argType="long" />
+        <argument android:name="isCs" app:argType="boolean" android:defaultValue="false" />
+    </fragment>
+
+    <!-- ============ CS / ADMIN ============ -->
+    <fragment
+        android:id="@+id/loginCsFragment"
+        android:name="com.ispmanagement.app.ui.cs.LoginCsFragment"
+        android:label="Login CS"
+        tools:layout="@layout/fragment_login" />
+
+    <fragment
+        android:id="@+id/csDashboardFragment"
+        android:name="com.ispmanagement.app.ui.cs.CsDashboardFragment"
+        android:label="Dashboard CS"
+        tools:layout="@layout/fragment_cs_dashboard" />
+
+    <fragment
+        android:id="@+id/kelolaPembayaranFragment"
+        android:name="com.ispmanagement.app.ui.cs.KelolaPembayaranFragment"
+        android:label="Kelola Pembayaran"
+        tools:layout="@layout/fragment_kelola_pembayaran" />
+
+    <fragment
+        android:id="@+id/kelolaPelangganFragment"
+        android:name="com.ispmanagement.app.ui.cs.KelolaPelangganFragment"
+        android:label="Kelola Pelanggan"
+        tools:layout="@layout/fragment_kelola_pelanggan" />
+
+    <fragment
+        android:id="@+id/registrasiPelangganFragment"
+        android:name="com.ispmanagement.app.ui.cs.RegistrasiPelangganFragment"
+        android:label="Registrasi Pelanggan Baru"
+        tools:layout="@layout/fragment_registrasi_pelanggan" />
+
+    <fragment
+        android:id="@+id/kelolaKomplainFragment"
+        android:name="com.ispmanagement.app.ui.cs.KelolaKomplainFragment"
+        android:label="Kelola Komplain"
+        tools:layout="@layout/fragment_komplain_list" />
+
+    <fragment
+        android:id="@+id/kelolaOdpFragment"
+        android:name="com.ispmanagement.app.ui.cs.KelolaOdpFragment"
+        android:label="Kelola ODP"
+        tools:layout="@layout/fragment_kelola_odp" />
+
+</navigation>
