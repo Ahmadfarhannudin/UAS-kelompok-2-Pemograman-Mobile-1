@@ -204,6 +204,7 @@ Dari daftar tagihan
 Buka Sidebar (klik ikon ☰ kiri atas)
   → Pilih "Masuk / Login"
   → Masukkan username & password pelanggan
+    pelanggan username : budi | password : budi123
   → Sistem otomatis mendeteksi level → diarahkan ke menu Komplain
   → Klik tombol "+" untuk buat tiket baru
   → Isi judul dan deskripsi kendala
@@ -219,7 +220,6 @@ Buka Sidebar (klik ikon ☰ kiri atas)
 Buka Sidebar (klik ikon ☰ kiri atas)
   → Pilih "Masuk / Login"
   → Masukkan username & password CS =
-    pelanggan username : budi | password : budi123
     CS = username : admin | password : admin123
   → Sistem mendeteksi level CS → diarahkan ke Dashboard
 ```
