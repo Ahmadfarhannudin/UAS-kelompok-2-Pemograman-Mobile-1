@@ -42,8 +42,8 @@ Proyek ini dibuat sebagai bagian dari mata kuliah **Pemrograman Mobile** Semeste
 - **Material Design 3** untuk antarmuka yang modern dan konsisten
 
 ---
-## 📸 Screenshot
 
+## 📸 Screenshot
 <div align="center">
   <img src="assets/isp.png" width="100%" alt="Screenshot ISP Management App">
 </div>
