@@ -1,8 +1,12 @@
 # UAS-kelompok-2-Pemograman-Mobile-1
 
-👥 Anggota Kelompok
+## 👥 Anggota Kelompok
 
-NamaNIMRoleAhmad Farhannudin24552011295Frontend & BackendBintang Dwi Ramadhan24552011305FrontendGugi24552011378Frontend
+| Nama | NIM | Role |
+|---|---|---|
+| Ahmad Farhannudin | 24552011295 | Frontend & Backend |
+| Bintang Dwi Ramadhan | 24552011305 | Frontend |
+| Gugi | 24552011378 | Frontend |
 
 Link Review Demo Aplikasi: https://youtu.be/ygADftsS6Ww?si=vjsnS9W_HYpA8L-a
 # 📡 ISP Management App
