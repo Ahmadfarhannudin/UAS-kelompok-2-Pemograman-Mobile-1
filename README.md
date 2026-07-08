@@ -152,7 +152,7 @@ IspManagementApp/
 
 **1. Clone Repository**
 ```bash
-git clone https://github.com/username/IspManagementApp.git
+git clone https://github.com/Ahmadfarhannudin/UAS-kelompok-2-Pemograman-Mobile-1.git
 cd IspManagementApp
 ```
 
